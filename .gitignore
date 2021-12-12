@@ -1,3 +1,9 @@
+package/__pycache__
+package/Const_secret.py
+debug.log
+error.log
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
